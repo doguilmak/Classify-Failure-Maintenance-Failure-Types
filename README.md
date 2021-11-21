@@ -13,7 +13,7 @@ The purpose of this study is based on the data, I want to classity and estimate 
 
 ## Dataset
 
-Datasets are downloaded from [Kaggle](https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification). You can find the details of the datasets in that website. **predictive_maintenance.csv** dataset has **10 columns** and **10000 rows without the header**. **Independent variables has 6 columns** (ID and Product_ID columnd dropped) and **depended variable has 1 column** which is Power Failure. 
+Datasets are downloaded from [Kaggle](https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification). You can find the details of the datasets in that website. **predictive_maintenance.csv** dataset has **10 columns** and **10000 rows without the header**. **Independent variables has 6 columns** (ID and Product_ID column dropped) and **depended variable has 1 column** which is Power Failure. 
 
 | Column | Details |
 |--|--|
