@@ -51,10 +51,15 @@ dtypes: int32(2), int64(6) - memory usage: 547.0 KB
 ### Numbers of Failure Types in Overall
 
 No Failure                  9652
+
 Heat Dissipation Failure     112
+
 Power Failure                 95
+
 Overstrain Failure            78
+
 Tool Wear Failure             45
+
 Random Failures               18
 
 <p align="center">
