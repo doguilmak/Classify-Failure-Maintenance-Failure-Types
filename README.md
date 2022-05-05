@@ -1,12 +1,12 @@
 
-# Classify Failure Types with XGBoost and ANN
+# Classify Failure Types with XGBoost and Artificial Neural Networks
 
 
 ## Problem Statement
 
 Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in the industry to the best of our knowledge. 
 
-Soruce: 
+Source: 
 - https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification
 
 The purpose of this study is based on the data, I want to classity and estimate maintenance failure types with XGBoost and artificial neural network. Output layer has 6 units. These are **No Failure, Heat Dissipation Failure, Power Failure, Overstrain Failure, Tool Wear Failure, Random Failures.**
